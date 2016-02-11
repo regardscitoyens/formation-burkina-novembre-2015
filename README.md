@@ -1,6 +1,6 @@
-# Formation Data Scrapping et Dataviz
+# Formation Data Scraping et Dataviz
 
-Tutoriels, codes sources et données produites lors de la formation Data scrapping et Dataviz [@ANPTIC](http://www.anptic.gov.bf/) de novembre 2015 à Ouagadougou.
+Tutoriels, codes sources et données produites lors de la formation Data scraping et Dataviz [@ANPTIC](http://www.anptic.gov.bf/) de novembre 2015 à Ouagadougou.
 
 ## Extraction de données PDF
 
@@ -34,9 +34,9 @@ Tutoriels, codes sources et données produites lors de la formation Data scrappi
 
       * Réalisation d'une carte de la population par provinces en enrichissant le fichier SHP avec le fichier CSV précédemment créé (utilisation de l'outil d'appariement de CartoDB).
 
-## [Scrapping de sites web](https://github.com/regardscitoyens/formation-burkina-novembre-2015/tree/master/juriscrapper) :
+## [Scraping de sites web](https://github.com/regardscitoyens/formation-burkina-novembre-2015/tree/master/juriscraper) :
 
-  * TP : [Les Jurisprudences Burkinabées du site Juricaf.org](https://github.com/regardscitoyens/formation-burkina-novembre-2015/raw/master/juriscrapper/Formation_Burkina_Faso_novembre_2015_TP3.odt)
+  * TP : [Les Jurisprudences Burkinabées du site Juricaf.org](https://github.com/regardscitoyens/formation-burkina-novembre-2015/raw/master/juriscraper/Formation_Burkina_Faso_novembre_2015_TP3.odt)
 
 ## Données résultantes :
   * [Tableaux des Opérations Financières de l'Etat (TOFE) de 2007 à 2012](https://github.com/regardscitoyens/formation-burkina-novembre-2015/tree/master/tofe/csv)
@@ -45,5 +45,5 @@ Tutoriels, codes sources et données produites lors de la formation Data scrappi
   * [Population 2006](https://github.com/regardscitoyens/formation-burkina-novembre-2015/raw/master/population/population_burkina_2006.csv)
   * [Fichiers SHP des provinces](https://github.com/regardscitoyens/formation-burkina-novembre-2015/tree/master/dataviz/provinces_burkina)
   * Jurisprudences
-    * [Burkina Faso (283)](https://github.com/regardscitoyens/formation-burkina-novembre-2015/raw/master/juriscrapper/http-www-juricaf-org-recherche-facet-pays-3aburkina-faso/data.csv)
-    * [Bénin (2612)](https://github.com/regardscitoyens/formation-burkina-novembre-2015/raw/master/juriscrapper/http-www-juricaf-org-recherche-facet-pays-3ab-c3-a9nin/data.csv)
+    * [Burkina Faso (283)](https://github.com/regardscitoyens/formation-burkina-novembre-2015/raw/master/juriscraper/http-www-juricaf-org-recherche-facet-pays-3aburkina-faso/data.csv)
+    * [Bénin (2612)](https://github.com/regardscitoyens/formation-burkina-novembre-2015/raw/master/juriscraper/http-www-juricaf-org-recherche-facet-pays-3ab-c3-a9nin/data.csv)
